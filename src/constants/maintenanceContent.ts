@@ -8,7 +8,7 @@ export type MaintenanceCopy = {
 export const maintenanceCopy = {
   title: "We’ll Be Back Soon",
   description:
-    "Our system is currently undergoing scheduled maintenance. We’re working to improve your experience and will be back shortly.",
+    "Our system is currently undergoing maintenance. We’re working to improve your experience and will be back shortly.",
   actionLabel: "Refresh Page",
   note: "Thank you for your patience.",
 } satisfies MaintenanceCopy;
